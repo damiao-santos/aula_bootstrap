@@ -1,0 +1,24 @@
+body{
+    font: 20px arial, sans-serif;
+    background-image: linear-gradient(100deg, rgba(212, 218, 209, 0.8), rgba(126, 230, 45, 0.8), rgba(115, 236, 22, 0.8), rgba(212, 218, 209, 0.8)), url("/projetos/aula_bootstrap/bootstrap/img/site 3.jpeg");
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#link {
+    color:white;
+}
+.quem-somos{
+    background-color: rgba(129, 129, 247, 0.8);
+}
+.margin{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.parceiro {
+    background-color: rgba(129, 129, 247, 0.8)
+}
+.servicos{
+    background-color: rgba(129, 129, 247, 0.8)
+}
